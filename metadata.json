@@ -1,0 +1,6 @@
+{
+  "name": "Goswami CSC Centre",
+  "description": "Goswami CSC Centre - आपका अपना डिजिटल सेवा केंद्र | VPO Katesra, Rohtak, Haryana. CSC ID: 566337450012.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
